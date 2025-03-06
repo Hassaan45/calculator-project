@@ -1,2 +1,6 @@
 Console.WriteLine("Hassan Ahmad");
 Console.WriteLine("24-ST-088");
+
+a = int(input("Enter first number: "))  
+b = int(input("Enter second number: "))  
+print("Multiplication:", a * b)  
