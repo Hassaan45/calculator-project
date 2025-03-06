@@ -2,6 +2,10 @@ Console.WriteLine("Hassan Ahmad");
 Console.WriteLine("24-ST-088");
 
 a = int(input("Enter first number: "))  
+addition
+b = int(input("Enter second number: "))  
+
+print("Addition:", a + b)  
 subtraction
 b = int(input("Enter second number: "))  
 print("Subtraction:", a - b) 
@@ -12,3 +16,4 @@ b = int(input("Enter second number: "))
 print("Multiplication:", a * b)  
 multiplication
 multiplication
+subtraction
