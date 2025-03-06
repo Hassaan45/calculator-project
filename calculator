@@ -2,9 +2,13 @@ Console.WriteLine("Hassan Ahmad");
 Console.WriteLine("24-ST-088");
 
 a = int(input("Enter first number: "))  
+subtraction
+b = int(input("Enter second number: "))  
+print("Subtraction:", a - b) 
 division
 b = int(input("Enter second number: ")) 
 print("Division:", "Error" if b == 0 else a / b)  
 b = int(input("Enter second number: "))  
 print("Multiplication:", a * b)  
+multiplication
 multiplication
